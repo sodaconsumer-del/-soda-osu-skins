@@ -19,3 +19,7 @@
 
 # [-soda- DT](https://www.mediafire.com/file/4jnpn5s8v41hu6c/-soda-_DT.osk/file)
 ![](https://osu.ppy.sh/ss/20063796/d6d5)
+
+
+# [villicet - soda edit](https://www.mediafire.com/file/l6kqh1mix4vigyk/-_villicet_edit.osk/file)
+![](https://osu.ppy.sh/ss/20063813/0154)
