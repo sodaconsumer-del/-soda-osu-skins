@@ -2,7 +2,7 @@
 - my profile: https://osu.ppy.sh/users/17477549
 - youtube: https://www.youtube.com/@sodaosu
 
-- All of my non-dt skins come without followpoints. If you wish to add followpoints, [here](https://www.mediafire.com/file/gq68m3i8t04rifv/followpoints.7z/file) is a pack you can drop into the skin folder.
+## All of my non-dt skins come without followpoints. If you wish to add followpoints, [here](https://www.mediafire.com/file/gq68m3i8t04rifv/followpoints.7z/file) is a pack you can drop into the skin folder.
 # [Find more skins here](https://github.com/sodaconsumer-del/-soda-osu-skins/blob/main/more.md)
 
 
