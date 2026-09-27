@@ -5,3 +5,5 @@
 
 
   
+# [-sodarista-](https://www.mediafire.com/file/yu4ivt8h14r3dza/-sodarista-.osk/file)
+![](https://osu.ppy.sh/ss/20063727/5eed)
