@@ -13,7 +13,7 @@
 ![](https://osu.ppy.sh/ss/20063782/6035)
 
 
-# [boop but clack](https://www.mediafire.com/file/wt010rtyqalp5gt/boop_but_clack_blue.osk/file) [boop but clock](https://www.mediafire.com/file/ceiobda6ofumin2/boop_but_clock_blue.osk/file)
+# [boop but clack blue](https://www.mediafire.com/file/wt010rtyqalp5gt/boop_but_clack_blue.osk/file) or [boop but clock blue](https://www.mediafire.com/file/ceiobda6ofumin2/boop_but_clock_blue.osk/file) (alt hitsounds)
 ![](https://osu.ppy.sh/ss/20063788/f33f)
 
 
