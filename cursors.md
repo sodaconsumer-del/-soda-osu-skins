@@ -14,9 +14,18 @@
 [Download](https://files.catbox.moe/7ho455.7z)
 
 
+| Cursor | Cursortrail |
+| :---: | :---: |
+| ![Cursor Preview](https://github.com/user-attachments/assets/27b7a8a3-82f2-457e-947e-aa8f1ccfd65c) | ![Trail Preview](https://github.com/user-attachments/assets/4494dab5-d5ef-49c8-84d2-c6c01a526249) |
+
+[Download](https://files.catbox.moe/b866wu.7z)
 
 
+| Cursor | Cursortrail |
+| :---: | :---: |
+| ![Cursor Preview](https://github.com/user-attachments/assets/6e7f04cd-0df8-42e5-b664-88973d9e596b) | ![Trail Preview](https://github.com/user-attachments/assets/bc06b2fd-541a-444f-94c9-8712b401abe3) |
 
+[Download](https://files.catbox.moe/7vq14d.7z)
 
 
 
