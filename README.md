@@ -4,6 +4,7 @@
 
 ## All of my non-dt skins come without followpoints. If you wish to add followpoints, [here](https://files.catbox.moe/pqld9e.7z) is a pack you can drop into the skin folder.
 # [Find more skins here](https://github.com/sodaconsumer-del/-soda-osu-skins/blob/main/more.md)
+# [Cursors](https://github.com/sodaconsumer-del/-soda-osu-skins/blob/main/cursors.md)
 
 
   
